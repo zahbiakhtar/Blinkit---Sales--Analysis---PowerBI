@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (449)" src="https://github.com/user-attachments/assets/a3297e77-694a-449a-856c-dcac82a1a9b5" />
 # Blinkit---Sales--Analysis---PowerBI
 An interactive Power BI dashboard analyzing Blinkit sales performance, outlet trends, product categories, and customer ratings using real-world retail data.
 
